@@ -1,4 +1,4 @@
-# Enterprise SMSGupShupAPI
+# Enterprise SMSGupShup API
 
 ### API:
 ```
